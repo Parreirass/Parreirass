@@ -4,7 +4,7 @@
 - Atualmente curso graduação em Engenharia da Computação pelo CEFET-MG
 - Aprofundando conhecimento em C/C++
 - Conhecimento básico em Python
-- Aprendendo HTML, CSS, Javascript e Java
+- Aprendendo HTML, CSS e Javascript 
 <br>
 
 <div align="left">
