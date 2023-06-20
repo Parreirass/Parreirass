@@ -1,4 +1,4 @@
-<h1 align="center"><b>Eaee, sou o Felipe Parreiras </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"></h1>
+<h1 align="center"><b>Hi!! I´m Felipe Parreiras </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"></h1>
 
 
 - Currently studying graduation in Computer Engineering at CEFET-MG
