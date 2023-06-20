@@ -1,10 +1,10 @@
 <h1 align="center"><b>Eaee, sou o Felipe Parreiras </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"></h1>
 
 
-- Atualmente curso graduação em Engenharia da Computação pelo CEFET-MG
-- Aprofundando conhecimento em C/C++
-- Conhecimento básico em Python
-- Aprendendo HTML, CSS e Javascript 
+- Currently studying graduation in Computer Engineering at CEFET-MG
+- Deepening knowledge in C/C++
+- Basic knowledge in Python
+- Learning HTML, CSS e Javascript 
 <br>
 
 <div align="left">
