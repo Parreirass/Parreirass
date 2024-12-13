@@ -3,7 +3,7 @@
 
 - Currently studying graduation in Computer Engineering at CEFET-MG
 - Deepening knowledge in C/C++, Python, HTML, CSS and Javascript
-- Coding PHP and SQL
+- Coding PHP, SQL and Javascript
 <br>
 
 <div align="left">
